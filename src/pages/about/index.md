@@ -23,7 +23,7 @@ organizers:
   title: Group Organizers
   gallery:
     - image: /img/organizer-1.jpg
-      imageAlt: Tom Cruise
+      imageAlt: Tom Bradley Cruise
       name: Tom Cruise
     - image: /img/organizer-2.jpg
       imageAlt: Tom Hanks
